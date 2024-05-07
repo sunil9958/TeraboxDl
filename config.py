@@ -5,7 +5,7 @@ BOT_TOKEN = "6387531711:AAHnGwV-5I8xQzpEk8OBcCLDcsvKBrCK0yg"  # bot token
 
 
 ## REDIS
-HOST = "localhost"  # redis host uri
+HOST = "https://teraboxdownoderbot-c050961c8b60.herokuapp.com/"  # redis host uri
 PORT = 6379  # redis port
 PASSWORD = ""  # redis password
 
