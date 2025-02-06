@@ -1,7 +1,7 @@
 API_ID = 25637343  # api id
 API_HASH = "70fb79a89ec2d30cab05704e817e5be6"  # api hash
 
-BOT_TOKEN = "6387531711:AAHnGwV-5I8xQzpEk8OBcCLDcsvKBrCK0yg"  # bot token
+BOT_TOKEN = "8199305031:AAEx-bIl8BCCYZ5sLo8SupsROof56vWP06o"  # bot token
 
 
 ## REDIS
@@ -10,5 +10,5 @@ PORT = 6379  # redis port
 PASSWORD = ""  # redis password
 
 PRIVATE_CHAT_ID = -1002105253581  # CHAT WHERE YOU WANT TO STORE VIDEOS
-COOKIE = ""  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
+COOKIE = "NID=519=f0lMoPOOKdzlV0JYfUqCrLsBhDnnbBNF0CRqXKoTrcOY6toshfSOikD0U9tqfLng8lqiZUTLgqKuGVQSkp0xywBFmHxUlFo6AgeUa3Z_Aks5mDioPyBUal4cPLLvHy3l5snwlG9wC0BJEQ-O9ZYO5-yFQEcZLxeaMzcvEZpwAbpEiQbiRc3ml0yP_gkOHhiW1seUorDAUwqjRf46JNWp5szJ6ZIkLGgfYv8Jlus4L20npEo96dL4O2BE5SOXK5PDDL_82hMDj8ETYmkNPQPjQ99-f5Hd-CKEjsKKqRavcltrBo-dDdMsss1RcI-JLo2cC3DA5w7bik0zL_flVPHLuRVmOp8xoW_uVMEPwZFIVd4ebyx2FUblC2SQrE94x8vZk0NvWfBQ2-Dv8uQgccgZ2OGM7l0e6Vee8ClCJvP5g4HPRxW1kQdVl18Kjj1cMVszcS0ybVmCsLz16_ekr8SG6l_rb4SpAAfFX99XorkAOoBHrVQFS7CPsU64gZ8_vTjC0eD1RZyLUBy41l6Ab-LVWSOEzAen7nq1S74DwYblnhOUXH45oM_9s5YzotrPk9St0aN6FrIorzd7nVuFE2CKA7_gGZ6T5fKG9st303hr9ja7CmdOrIDxlSajCGR8HiSSZGB_yBR_GBbOWm99-27Y34wBTPym443fFS26W8kTDa111cGiFZaKuIyVvg419AaFiSdihFVGyR-a2dMn-Xpp9yDrWcPTtllknHFi5Q; __Secure-3PSID=g.a000qwi0SZl60c9hmZMjkZtGrHLDBIPspX5NdOlbo0Tp0Ov5r2fxtm-STFddd_vFZtc1c5PLFgACgYKAYgSARMSFQHGX2Mi05FBCz8AuHAAvx3sGzl6KxoVAUF8yKrHxLy8WNVSxBMrzwkGrWdq0076; __Secure-3PAPISID=laibO8z2BKXKYRzO/A-OOuGTrsi9rWRyuP; __Secure-3PSIDCC=AKEyXzURe8xjOlmBq0ZSYbjEieUJ8wXRdtyiyArl9RNU2GMl3O0Uk4raeEaLJNOc9ihUqyEM7Q"  # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=; lang=en; TSID=; __bid_n=; _ga=; __stripe_mid=; ndus=; browserid==; ndut_fmt=; _ga_06ZNKL8C2E=" (don't use this)
 ADMINS = [5390137933]
